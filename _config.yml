@@ -1,11 +1,11 @@
-title: Hexo
-subtitle: ''
-description: ''
-keywords: null
-author: John Doe
-language: en
-timezone: ''
-url: http://example.com
+title: lwd-temp的博客
+subtitle: "lwd-temp's Blog"
+description: 'lwd-temp的博客'
+keywords: lwd-temp的博客,lwd-temp,"lwd-temp's Blog",blog
+author: lwd-temp
+language: zh-CN
+timezone: 'Asia/Shanghai'
+url: https://hexo.lwd-temp.top/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
